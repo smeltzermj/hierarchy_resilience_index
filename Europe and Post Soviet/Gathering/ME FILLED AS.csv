@@ -1,0 +1,1429 @@
+"","target_country","super_power","year","distinct","order"
+"1","Bahrain","China",1991,NA,0
+"2","Bahrain","China",1992,NA,0
+"3","Bahrain","China",1993,NA,0
+"4","Bahrain","China",1994,NA,0
+"5","Bahrain","China",1995,NA,0
+"6","Bahrain","China",1996,NA,0
+"7","Bahrain","China",1997,NA,0
+"8","Bahrain","China",1998,NA,0
+"9","Bahrain","China",1999,NA,0
+"10","Bahrain","China",2000,NA,0
+"11","Bahrain","China",2001,NA,0
+"12","Bahrain","China",2002,NA,0
+"13","Bahrain","China",2003,NA,0
+"14","Bahrain","China",2004,NA,0
+"15","Bahrain","China",2005,NA,0
+"16","Bahrain","China",2006,NA,0
+"17","Bahrain","China",2007,NA,0
+"18","Bahrain","China",2008,NA,0
+"19","Bahrain","China",2009,NA,0
+"20","Bahrain","China",2010,NA,0
+"21","Bahrain","China",2011,NA,0
+"22","Bahrain","China",2012,NA,0
+"23","Bahrain","China",2013,NA,0
+"24","Bahrain","China",2014,NA,0
+"25","Bahrain","China",2015,NA,0
+"26","Bahrain","China",2016,NA,0
+"27","Bahrain","China",2017,NA,0
+"28","Bahrain","China",2018,NA,0
+"29","Bahrain","Russia",1991,NA,0
+"30","Bahrain","Russia",1992,NA,0
+"31","Bahrain","Russia",1993,NA,0
+"32","Bahrain","Russia",1994,NA,0
+"33","Bahrain","Russia",1995,NA,0
+"34","Bahrain","Russia",1996,NA,0
+"35","Bahrain","Russia",1997,NA,0
+"36","Bahrain","Russia",1998,NA,0
+"37","Bahrain","Russia",1999,NA,0
+"38","Bahrain","Russia",2000,NA,0
+"39","Bahrain","Russia",2001,NA,0
+"40","Bahrain","Russia",2002,NA,0
+"41","Bahrain","Russia",2003,NA,0
+"42","Bahrain","Russia",2004,NA,0
+"43","Bahrain","Russia",2005,NA,0
+"44","Bahrain","Russia",2006,NA,0
+"45","Bahrain","Russia",2007,NA,0
+"46","Bahrain","Russia",2008,NA,0
+"47","Bahrain","Russia",2009,NA,0
+"48","Bahrain","Russia",2010,NA,0
+"49","Bahrain","Russia",2011,NA,0
+"50","Bahrain","Russia",2012,NA,0
+"51","Bahrain","Russia",2013,NA,0
+"52","Bahrain","Russia",2014,NA,0
+"53","Bahrain","Russia",2015,NA,0
+"54","Bahrain","Russia",2016,NA,0
+"55","Bahrain","Russia",2017,NA,0
+"56","Bahrain","Russia",2018,NA,0
+"57","Bahrain","United States",1991,3,1
+"58","Bahrain","United States",1992,0,0
+"59","Bahrain","United States",1993,2,1
+"60","Bahrain","United States",1994,2,1
+"61","Bahrain","United States",1995,7,1
+"62","Bahrain","United States",1996,1,1
+"63","Bahrain","United States",1997,1,1
+"64","Bahrain","United States",1998,1,1
+"65","Bahrain","United States",1999,2,1
+"66","Bahrain","United States",2000,3,1
+"67","Bahrain","United States",2001,1,1
+"68","Bahrain","United States",2002,1,1
+"69","Bahrain","United States",2003,1,1
+"70","Bahrain","United States",2004,2,1
+"71","Bahrain","United States",2005,0,0
+"72","Bahrain","United States",2006,1,1
+"73","Bahrain","United States",2007,1,1
+"74","Bahrain","United States",2008,0,0
+"75","Bahrain","United States",2009,1,1
+"76","Bahrain","United States",2010,1,1
+"77","Bahrain","United States",2011,3,1
+"78","Bahrain","United States",2012,1,1
+"79","Bahrain","United States",2013,0,0
+"80","Bahrain","United States",2014,0,0
+"81","Bahrain","United States",2015,1,1
+"82","Bahrain","United States",2016,1,1
+"83","Bahrain","United States",2017,1,1
+"84","Bahrain","United States",2018,0,0
+"85","Cyprus","China",1991,NA,0
+"86","Cyprus","China",1992,NA,0
+"87","Cyprus","China",1993,NA,0
+"88","Cyprus","China",1994,NA,0
+"89","Cyprus","China",1995,NA,0
+"90","Cyprus","China",1996,NA,0
+"91","Cyprus","China",1997,NA,0
+"92","Cyprus","China",1998,NA,0
+"93","Cyprus","China",1999,NA,0
+"94","Cyprus","China",2000,NA,0
+"95","Cyprus","China",2001,NA,0
+"96","Cyprus","China",2002,NA,0
+"97","Cyprus","China",2003,NA,0
+"98","Cyprus","China",2004,NA,0
+"99","Cyprus","China",2005,NA,0
+"100","Cyprus","China",2006,NA,0
+"101","Cyprus","China",2007,NA,0
+"102","Cyprus","China",2008,NA,0
+"103","Cyprus","China",2009,NA,0
+"104","Cyprus","China",2010,NA,0
+"105","Cyprus","China",2011,NA,0
+"106","Cyprus","China",2012,NA,0
+"107","Cyprus","China",2013,NA,0
+"108","Cyprus","China",2014,NA,0
+"109","Cyprus","China",2015,NA,0
+"110","Cyprus","China",2016,NA,0
+"111","Cyprus","China",2017,NA,0
+"112","Cyprus","China",2018,NA,0
+"113","Cyprus","Russia",1991,0,0
+"114","Cyprus","Russia",1992,0,0
+"115","Cyprus","Russia",1993,0,0
+"116","Cyprus","Russia",1994,0,0
+"117","Cyprus","Russia",1995,2,1
+"118","Cyprus","Russia",1996,1,1
+"119","Cyprus","Russia",1997,0,0
+"120","Cyprus","Russia",1998,0,0
+"121","Cyprus","Russia",1999,2,1
+"122","Cyprus","Russia",2000,0,0
+"123","Cyprus","Russia",2001,2,1
+"124","Cyprus","Russia",2002,0,0
+"125","Cyprus","Russia",2003,0,0
+"126","Cyprus","Russia",2004,1,1
+"127","Cyprus","Russia",2005,0,0
+"128","Cyprus","Russia",2006,0,0
+"129","Cyprus","Russia",2007,0,0
+"130","Cyprus","Russia",2008,0,0
+"131","Cyprus","Russia",2009,0,0
+"132","Cyprus","Russia",2010,2,1
+"133","Cyprus","Russia",2011,0,0
+"134","Cyprus","Russia",2012,0,0
+"135","Cyprus","Russia",2013,0,0
+"136","Cyprus","Russia",2014,0,0
+"137","Cyprus","Russia",2015,0,0
+"138","Cyprus","Russia",2016,0,0
+"139","Cyprus","Russia",2017,0,0
+"140","Cyprus","Russia",2018,0,0
+"141","Cyprus","United States",1991,NA,0
+"142","Cyprus","United States",1992,NA,0
+"143","Cyprus","United States",1993,NA,0
+"144","Cyprus","United States",1994,NA,0
+"145","Cyprus","United States",1995,NA,0
+"146","Cyprus","United States",1996,NA,0
+"147","Cyprus","United States",1997,NA,0
+"148","Cyprus","United States",1998,NA,0
+"149","Cyprus","United States",1999,NA,0
+"150","Cyprus","United States",2000,NA,0
+"151","Cyprus","United States",2001,NA,0
+"152","Cyprus","United States",2002,NA,0
+"153","Cyprus","United States",2003,NA,0
+"154","Cyprus","United States",2004,NA,0
+"155","Cyprus","United States",2005,NA,0
+"156","Cyprus","United States",2006,NA,0
+"157","Cyprus","United States",2007,NA,0
+"158","Cyprus","United States",2008,NA,0
+"159","Cyprus","United States",2009,NA,0
+"160","Cyprus","United States",2010,NA,0
+"161","Cyprus","United States",2011,NA,0
+"162","Cyprus","United States",2012,NA,0
+"163","Cyprus","United States",2013,NA,0
+"164","Cyprus","United States",2014,NA,0
+"165","Cyprus","United States",2015,NA,0
+"166","Cyprus","United States",2016,NA,0
+"167","Cyprus","United States",2017,NA,0
+"168","Cyprus","United States",2018,NA,0
+"169","Egypt","China",1991,0,0
+"170","Egypt","China",1992,1,1
+"171","Egypt","China",1993,0,0
+"172","Egypt","China",1994,0,0
+"173","Egypt","China",1995,0,0
+"174","Egypt","China",1996,0,0
+"175","Egypt","China",1997,0,0
+"176","Egypt","China",1998,0,0
+"177","Egypt","China",1999,1,1
+"178","Egypt","China",2000,0,0
+"179","Egypt","China",2001,0,0
+"180","Egypt","China",2002,0,0
+"181","Egypt","China",2003,0,0
+"182","Egypt","China",2004,1,1
+"183","Egypt","China",2005,0,0
+"184","Egypt","China",2006,0,0
+"185","Egypt","China",2007,0,0
+"186","Egypt","China",2008,0,0
+"187","Egypt","China",2009,0,0
+"188","Egypt","China",2010,1,1
+"189","Egypt","China",2011,0,0
+"190","Egypt","China",2012,0,0
+"191","Egypt","China",2013,0,0
+"192","Egypt","China",2014,0,0
+"193","Egypt","China",2015,0,0
+"194","Egypt","China",2016,1,1
+"195","Egypt","China",2017,0,0
+"196","Egypt","China",2018,0,0
+"197","Egypt","Russia",1991,1,1
+"198","Egypt","Russia",1992,1,1
+"199","Egypt","Russia",1993,0,0
+"200","Egypt","Russia",1994,0,0
+"201","Egypt","Russia",1995,0,0
+"202","Egypt","Russia",1996,0,0
+"203","Egypt","Russia",1997,1,1
+"204","Egypt","Russia",1998,0,0
+"205","Egypt","Russia",1999,1,1
+"206","Egypt","Russia",2000,0,0
+"207","Egypt","Russia",2001,0,0
+"208","Egypt","Russia",2002,0,0
+"209","Egypt","Russia",2003,0,0
+"210","Egypt","Russia",2004,0,0
+"211","Egypt","Russia",2005,4,1
+"212","Egypt","Russia",2006,3,1
+"213","Egypt","Russia",2007,1,1
+"214","Egypt","Russia",2008,1,1
+"215","Egypt","Russia",2009,2,1
+"216","Egypt","Russia",2010,0,0
+"217","Egypt","Russia",2011,0,0
+"218","Egypt","Russia",2012,1,1
+"219","Egypt","Russia",2013,0,0
+"220","Egypt","Russia",2014,2,1
+"221","Egypt","Russia",2015,10,1
+"222","Egypt","Russia",2016,0,0
+"223","Egypt","Russia",2017,0,0
+"224","Egypt","Russia",2018,0,0
+"225","Egypt","United States",1991,4,1
+"226","Egypt","United States",1992,1,1
+"227","Egypt","United States",1993,5,1
+"228","Egypt","United States",1994,6,1
+"229","Egypt","United States",1995,3,1
+"230","Egypt","United States",1996,19,1
+"231","Egypt","United States",1997,2,1
+"232","Egypt","United States",1998,7,1
+"233","Egypt","United States",1999,8,1
+"234","Egypt","United States",2000,8,1
+"235","Egypt","United States",2001,10,1
+"236","Egypt","United States",2002,0,0
+"237","Egypt","United States",2003,6,1
+"238","Egypt","United States",2004,7,1
+"239","Egypt","United States",2005,3,1
+"240","Egypt","United States",2006,3,1
+"241","Egypt","United States",2007,0,0
+"242","Egypt","United States",2008,4,1
+"243","Egypt","United States",2009,2,1
+"244","Egypt","United States",2010,5,1
+"245","Egypt","United States",2011,4,1
+"246","Egypt","United States",2012,0,0
+"247","Egypt","United States",2013,1,1
+"248","Egypt","United States",2014,2,1
+"249","Egypt","United States",2015,4,1
+"250","Egypt","United States",2016,4,1
+"251","Egypt","United States",2017,1,1
+"252","Egypt","United States",2018,0,0
+"253","Iran","China",1991,2,1
+"254","Iran","China",1992,3,1
+"255","Iran","China",1993,2,1
+"256","Iran","China",1994,1,1
+"257","Iran","China",1995,1,1
+"258","Iran","China",1996,2,1
+"259","Iran","China",1997,0,0
+"260","Iran","China",1998,4,1
+"261","Iran","China",1999,0,0
+"262","Iran","China",2000,1,1
+"263","Iran","China",2001,0,0
+"264","Iran","China",2002,1,1
+"265","Iran","China",2003,1,1
+"266","Iran","China",2004,1,1
+"267","Iran","China",2005,1,1
+"268","Iran","China",2006,0,0
+"269","Iran","China",2007,0,0
+"270","Iran","China",2008,0,0
+"271","Iran","China",2009,0,0
+"272","Iran","China",2010,0,0
+"273","Iran","China",2011,0,0
+"274","Iran","China",2012,0,0
+"275","Iran","China",2013,0,0
+"276","Iran","China",2014,0,0
+"277","Iran","China",2015,0,0
+"278","Iran","China",2016,0,0
+"279","Iran","China",2017,0,0
+"280","Iran","China",2018,0,0
+"281","Iran","Russia",1991,4,1
+"282","Iran","Russia",1992,0,0
+"283","Iran","Russia",1993,3,1
+"284","Iran","Russia",1994,0,0
+"285","Iran","Russia",1995,3,1
+"286","Iran","Russia",1996,0,0
+"287","Iran","Russia",1997,1,1
+"288","Iran","Russia",1998,2,1
+"289","Iran","Russia",1999,3,1
+"290","Iran","Russia",2000,0,0
+"291","Iran","Russia",2001,1,1
+"292","Iran","Russia",2002,0,0
+"293","Iran","Russia",2003,2,1
+"294","Iran","Russia",2004,0,0
+"295","Iran","Russia",2005,2,1
+"296","Iran","Russia",2006,0,0
+"297","Iran","Russia",2007,1,1
+"298","Iran","Russia",2008,0,0
+"299","Iran","Russia",2009,0,0
+"300","Iran","Russia",2010,1,1
+"301","Iran","Russia",2011,1,1
+"302","Iran","Russia",2012,0,0
+"303","Iran","Russia",2013,0,0
+"304","Iran","Russia",2014,0,0
+"305","Iran","Russia",2015,2,1
+"306","Iran","Russia",2016,0,0
+"307","Iran","Russia",2017,0,0
+"308","Iran","Russia",2018,0,0
+"309","Iran","United States",1991,NA,0
+"310","Iran","United States",1992,NA,0
+"311","Iran","United States",1993,NA,0
+"312","Iran","United States",1994,NA,0
+"313","Iran","United States",1995,NA,0
+"314","Iran","United States",1996,NA,0
+"315","Iran","United States",1997,NA,0
+"316","Iran","United States",1998,NA,0
+"317","Iran","United States",1999,NA,0
+"318","Iran","United States",2000,NA,0
+"319","Iran","United States",2001,NA,0
+"320","Iran","United States",2002,NA,0
+"321","Iran","United States",2003,NA,0
+"322","Iran","United States",2004,NA,0
+"323","Iran","United States",2005,NA,0
+"324","Iran","United States",2006,NA,0
+"325","Iran","United States",2007,NA,0
+"326","Iran","United States",2008,NA,0
+"327","Iran","United States",2009,NA,0
+"328","Iran","United States",2010,NA,0
+"329","Iran","United States",2011,NA,0
+"330","Iran","United States",2012,NA,0
+"331","Iran","United States",2013,NA,0
+"332","Iran","United States",2014,NA,0
+"333","Iran","United States",2015,NA,0
+"334","Iran","United States",2016,NA,0
+"335","Iran","United States",2017,NA,0
+"336","Iran","United States",2018,NA,0
+"337","Iraq","China",1991,0,0
+"338","Iraq","China",1992,0,0
+"339","Iraq","China",1993,0,0
+"340","Iraq","China",1994,0,0
+"341","Iraq","China",1995,0,0
+"342","Iraq","China",1996,0,0
+"343","Iraq","China",1997,0,0
+"344","Iraq","China",1998,0,0
+"345","Iraq","China",1999,0,0
+"346","Iraq","China",2000,0,0
+"347","Iraq","China",2001,0,0
+"348","Iraq","China",2002,0,0
+"349","Iraq","China",2003,0,0
+"350","Iraq","China",2004,0,0
+"351","Iraq","China",2005,0,0
+"352","Iraq","China",2006,0,0
+"353","Iraq","China",2007,0,0
+"354","Iraq","China",2008,0,0
+"355","Iraq","China",2009,0,0
+"356","Iraq","China",2010,0,0
+"357","Iraq","China",2011,0,0
+"358","Iraq","China",2012,0,0
+"359","Iraq","China",2013,0,0
+"360","Iraq","China",2014,3,1
+"361","Iraq","China",2015,0,0
+"362","Iraq","China",2016,0,0
+"363","Iraq","China",2017,0,0
+"364","Iraq","China",2018,0,0
+"365","Iraq","Russia",1991,0,0
+"366","Iraq","Russia",1992,0,0
+"367","Iraq","Russia",1993,0,0
+"368","Iraq","Russia",1994,0,0
+"369","Iraq","Russia",1995,0,0
+"370","Iraq","Russia",1996,0,0
+"371","Iraq","Russia",1997,0,0
+"372","Iraq","Russia",1998,0,0
+"373","Iraq","Russia",1999,0,0
+"374","Iraq","Russia",2000,0,0
+"375","Iraq","Russia",2001,0,0
+"376","Iraq","Russia",2002,0,0
+"377","Iraq","Russia",2003,0,0
+"378","Iraq","Russia",2004,0,0
+"379","Iraq","Russia",2005,1,1
+"380","Iraq","Russia",2006,1,1
+"381","Iraq","Russia",2007,1,1
+"382","Iraq","Russia",2008,0,0
+"383","Iraq","Russia",2009,0,0
+"384","Iraq","Russia",2010,0,0
+"385","Iraq","Russia",2011,0,0
+"386","Iraq","Russia",2012,3,1
+"387","Iraq","Russia",2013,3,1
+"388","Iraq","Russia",2014,4,1
+"389","Iraq","Russia",2015,3,1
+"390","Iraq","Russia",2016,2,1
+"391","Iraq","Russia",2017,0,0
+"392","Iraq","Russia",2018,0,0
+"393","Iraq","United States",1991,0,0
+"394","Iraq","United States",1992,0,0
+"395","Iraq","United States",1993,0,0
+"396","Iraq","United States",1994,0,0
+"397","Iraq","United States",1995,0,0
+"398","Iraq","United States",1996,0,0
+"399","Iraq","United States",1997,0,0
+"400","Iraq","United States",1998,0,0
+"401","Iraq","United States",1999,0,0
+"402","Iraq","United States",2000,0,0
+"403","Iraq","United States",2001,0,0
+"404","Iraq","United States",2002,0,0
+"405","Iraq","United States",2003,0,0
+"406","Iraq","United States",2004,5,1
+"407","Iraq","United States",2005,3,1
+"408","Iraq","United States",2006,4,1
+"409","Iraq","United States",2007,5,1
+"410","Iraq","United States",2008,8,1
+"411","Iraq","United States",2009,6,1
+"412","Iraq","United States",2010,7,1
+"413","Iraq","United States",2011,8,1
+"414","Iraq","United States",2012,6,1
+"415","Iraq","United States",2013,10,1
+"416","Iraq","United States",2014,10,1
+"417","Iraq","United States",2015,4,1
+"418","Iraq","United States",2016,3,1
+"419","Iraq","United States",2017,1,1
+"420","Iraq","United States",2018,0,0
+"421","Israel","China",1991,NA,0
+"422","Israel","China",1992,NA,0
+"423","Israel","China",1993,NA,0
+"424","Israel","China",1994,NA,0
+"425","Israel","China",1995,NA,0
+"426","Israel","China",1996,NA,0
+"427","Israel","China",1997,NA,0
+"428","Israel","China",1998,NA,0
+"429","Israel","China",1999,NA,0
+"430","Israel","China",2000,NA,0
+"431","Israel","China",2001,NA,0
+"432","Israel","China",2002,NA,0
+"433","Israel","China",2003,NA,0
+"434","Israel","China",2004,NA,0
+"435","Israel","China",2005,NA,0
+"436","Israel","China",2006,NA,0
+"437","Israel","China",2007,NA,0
+"438","Israel","China",2008,NA,0
+"439","Israel","China",2009,NA,0
+"440","Israel","China",2010,NA,0
+"441","Israel","China",2011,NA,0
+"442","Israel","China",2012,NA,0
+"443","Israel","China",2013,NA,0
+"444","Israel","China",2014,NA,0
+"445","Israel","China",2015,NA,0
+"446","Israel","China",2016,NA,0
+"447","Israel","China",2017,NA,0
+"448","Israel","China",2018,NA,0
+"449","Israel","Russia",1991,NA,0
+"450","Israel","Russia",1992,NA,0
+"451","Israel","Russia",1993,NA,0
+"452","Israel","Russia",1994,NA,0
+"453","Israel","Russia",1995,NA,0
+"454","Israel","Russia",1996,NA,0
+"455","Israel","Russia",1997,NA,0
+"456","Israel","Russia",1998,NA,0
+"457","Israel","Russia",1999,NA,0
+"458","Israel","Russia",2000,NA,0
+"459","Israel","Russia",2001,NA,0
+"460","Israel","Russia",2002,NA,0
+"461","Israel","Russia",2003,NA,0
+"462","Israel","Russia",2004,NA,0
+"463","Israel","Russia",2005,NA,0
+"464","Israel","Russia",2006,NA,0
+"465","Israel","Russia",2007,NA,0
+"466","Israel","Russia",2008,NA,0
+"467","Israel","Russia",2009,NA,0
+"468","Israel","Russia",2010,NA,0
+"469","Israel","Russia",2011,NA,0
+"470","Israel","Russia",2012,NA,0
+"471","Israel","Russia",2013,NA,0
+"472","Israel","Russia",2014,NA,0
+"473","Israel","Russia",2015,NA,0
+"474","Israel","Russia",2016,NA,0
+"475","Israel","Russia",2017,NA,0
+"476","Israel","Russia",2018,NA,0
+"477","Israel","United States",1991,3,1
+"478","Israel","United States",1992,2,1
+"479","Israel","United States",1993,6,1
+"480","Israel","United States",1994,4,1
+"481","Israel","United States",1995,5,1
+"482","Israel","United States",1996,0,0
+"483","Israel","United States",1997,1,1
+"484","Israel","United States",1998,5,1
+"485","Israel","United States",1999,4,1
+"486","Israel","United States",2000,4,1
+"487","Israel","United States",2001,9,1
+"488","Israel","United States",2002,7,1
+"489","Israel","United States",2003,1,1
+"490","Israel","United States",2004,6,1
+"491","Israel","United States",2005,2,1
+"492","Israel","United States",2006,1,1
+"493","Israel","United States",2007,2,1
+"494","Israel","United States",2008,2,1
+"495","Israel","United States",2009,1,1
+"496","Israel","United States",2010,5,1
+"497","Israel","United States",2011,4,1
+"498","Israel","United States",2012,4,1
+"499","Israel","United States",2013,2,1
+"500","Israel","United States",2014,2,1
+"501","Israel","United States",2015,4,1
+"502","Israel","United States",2016,2,1
+"503","Israel","United States",2017,1,1
+"504","Israel","United States",2018,0,0
+"505","Jordan","China",1991,0,0
+"506","Jordan","China",1992,0,0
+"507","Jordan","China",1993,0,0
+"508","Jordan","China",1994,0,0
+"509","Jordan","China",1995,0,0
+"510","Jordan","China",1996,0,0
+"511","Jordan","China",1997,0,0
+"512","Jordan","China",1998,0,0
+"513","Jordan","China",1999,0,0
+"514","Jordan","China",2000,0,0
+"515","Jordan","China",2001,0,0
+"516","Jordan","China",2002,0,0
+"517","Jordan","China",2003,0,0
+"518","Jordan","China",2004,0,0
+"519","Jordan","China",2005,0,0
+"520","Jordan","China",2006,0,0
+"521","Jordan","China",2007,0,0
+"522","Jordan","China",2008,0,0
+"523","Jordan","China",2009,1,1
+"524","Jordan","China",2010,0,0
+"525","Jordan","China",2011,0,0
+"526","Jordan","China",2012,0,0
+"527","Jordan","China",2013,0,0
+"528","Jordan","China",2014,1,1
+"529","Jordan","China",2015,1,1
+"530","Jordan","China",2016,0,0
+"531","Jordan","China",2017,0,0
+"532","Jordan","China",2018,0,0
+"533","Jordan","Russia",1991,0,0
+"534","Jordan","Russia",1992,0,0
+"535","Jordan","Russia",1993,0,0
+"536","Jordan","Russia",1994,0,0
+"537","Jordan","Russia",1995,0,0
+"538","Jordan","Russia",1996,0,0
+"539","Jordan","Russia",1997,0,0
+"540","Jordan","Russia",1998,0,0
+"541","Jordan","Russia",1999,0,0
+"542","Jordan","Russia",2000,1,1
+"543","Jordan","Russia",2001,0,0
+"544","Jordan","Russia",2002,0,0
+"545","Jordan","Russia",2003,0,0
+"546","Jordan","Russia",2004,0,0
+"547","Jordan","Russia",2005,0,0
+"548","Jordan","Russia",2006,0,0
+"549","Jordan","Russia",2007,1,1
+"550","Jordan","Russia",2008,1,1
+"551","Jordan","Russia",2009,0,0
+"552","Jordan","Russia",2010,0,0
+"553","Jordan","Russia",2011,0,0
+"554","Jordan","Russia",2012,0,0
+"555","Jordan","Russia",2013,0,0
+"556","Jordan","Russia",2014,0,0
+"557","Jordan","Russia",2015,0,0
+"558","Jordan","Russia",2016,1,1
+"559","Jordan","Russia",2017,0,0
+"560","Jordan","Russia",2018,0,0
+"561","Jordan","United States",1991,0,0
+"562","Jordan","United States",1992,1,1
+"563","Jordan","United States",1993,0,0
+"564","Jordan","United States",1994,2,1
+"565","Jordan","United States",1995,5,1
+"566","Jordan","United States",1996,3,1
+"567","Jordan","United States",1997,1,1
+"568","Jordan","United States",1998,4,1
+"569","Jordan","United States",1999,2,1
+"570","Jordan","United States",2000,4,1
+"571","Jordan","United States",2001,2,1
+"572","Jordan","United States",2002,2,1
+"573","Jordan","United States",2003,2,1
+"574","Jordan","United States",2004,3,1
+"575","Jordan","United States",2005,3,1
+"576","Jordan","United States",2006,0,0
+"577","Jordan","United States",2007,1,1
+"578","Jordan","United States",2008,0,0
+"579","Jordan","United States",2009,2,1
+"580","Jordan","United States",2010,3,1
+"581","Jordan","United States",2011,0,0
+"582","Jordan","United States",2012,3,1
+"583","Jordan","United States",2013,5,1
+"584","Jordan","United States",2014,9,1
+"585","Jordan","United States",2015,5,1
+"586","Jordan","United States",2016,5,1
+"587","Jordan","United States",2017,1,1
+"588","Jordan","United States",2018,0,0
+"589","Kuwait","China",1991,0,0
+"590","Kuwait","China",1992,0,0
+"591","Kuwait","China",1993,0,0
+"592","Kuwait","China",1994,0,0
+"593","Kuwait","China",1995,0,0
+"594","Kuwait","China",1996,0,0
+"595","Kuwait","China",1997,0,0
+"596","Kuwait","China",1998,4,1
+"597","Kuwait","China",1999,0,0
+"598","Kuwait","China",2000,0,0
+"599","Kuwait","China",2001,4,1
+"600","Kuwait","China",2002,0,0
+"601","Kuwait","China",2003,0,0
+"602","Kuwait","China",2004,0,0
+"603","Kuwait","China",2005,0,0
+"604","Kuwait","China",2006,0,0
+"605","Kuwait","China",2007,0,0
+"606","Kuwait","China",2008,0,0
+"607","Kuwait","China",2009,0,0
+"608","Kuwait","China",2010,0,0
+"609","Kuwait","China",2011,0,0
+"610","Kuwait","China",2012,0,0
+"611","Kuwait","China",2013,0,0
+"612","Kuwait","China",2014,0,0
+"613","Kuwait","China",2015,0,0
+"614","Kuwait","China",2016,0,0
+"615","Kuwait","China",2017,0,0
+"616","Kuwait","China",2018,0,0
+"617","Kuwait","Russia",1991,0,0
+"618","Kuwait","Russia",1992,0,0
+"619","Kuwait","Russia",1993,0,0
+"620","Kuwait","Russia",1994,5,1
+"621","Kuwait","Russia",1995,0,0
+"622","Kuwait","Russia",1996,0,0
+"623","Kuwait","Russia",1997,0,0
+"624","Kuwait","Russia",1998,0,0
+"625","Kuwait","Russia",1999,0,0
+"626","Kuwait","Russia",2000,0,0
+"627","Kuwait","Russia",2001,0,0
+"628","Kuwait","Russia",2002,0,0
+"629","Kuwait","Russia",2003,0,0
+"630","Kuwait","Russia",2004,0,0
+"631","Kuwait","Russia",2005,0,0
+"632","Kuwait","Russia",2006,0,0
+"633","Kuwait","Russia",2007,0,0
+"634","Kuwait","Russia",2008,0,0
+"635","Kuwait","Russia",2009,1,1
+"636","Kuwait","Russia",2010,0,0
+"637","Kuwait","Russia",2011,0,0
+"638","Kuwait","Russia",2012,0,0
+"639","Kuwait","Russia",2013,0,0
+"640","Kuwait","Russia",2014,1,1
+"641","Kuwait","Russia",2015,0,0
+"642","Kuwait","Russia",2016,0,0
+"643","Kuwait","Russia",2017,0,0
+"644","Kuwait","Russia",2018,0,0
+"645","Kuwait","United States",1991,0,0
+"646","Kuwait","United States",1992,4,1
+"647","Kuwait","United States",1993,7,1
+"648","Kuwait","United States",1994,0,0
+"649","Kuwait","United States",1995,2,1
+"650","Kuwait","United States",1996,1,1
+"651","Kuwait","United States",1997,0,0
+"652","Kuwait","United States",1998,0,0
+"653","Kuwait","United States",1999,0,0
+"654","Kuwait","United States",2000,0,0
+"655","Kuwait","United States",2001,0,0
+"656","Kuwait","United States",2002,3,1
+"657","Kuwait","United States",2003,3,1
+"658","Kuwait","United States",2004,0,0
+"659","Kuwait","United States",2005,1,1
+"660","Kuwait","United States",2006,0,0
+"661","Kuwait","United States",2007,1,1
+"662","Kuwait","United States",2008,3,1
+"663","Kuwait","United States",2009,4,1
+"664","Kuwait","United States",2010,1,1
+"665","Kuwait","United States",2011,2,1
+"666","Kuwait","United States",2012,0,0
+"667","Kuwait","United States",2013,4,1
+"668","Kuwait","United States",2014,2,1
+"669","Kuwait","United States",2015,0,0
+"670","Kuwait","United States",2016,0,0
+"671","Kuwait","United States",2017,0,0
+"672","Kuwait","United States",2018,0,0
+"673","Lebanon","China",1991,NA,0
+"674","Lebanon","China",1992,NA,0
+"675","Lebanon","China",1993,NA,0
+"676","Lebanon","China",1994,NA,0
+"677","Lebanon","China",1995,NA,0
+"678","Lebanon","China",1996,NA,0
+"679","Lebanon","China",1997,NA,0
+"680","Lebanon","China",1998,NA,0
+"681","Lebanon","China",1999,NA,0
+"682","Lebanon","China",2000,NA,0
+"683","Lebanon","China",2001,NA,0
+"684","Lebanon","China",2002,NA,0
+"685","Lebanon","China",2003,NA,0
+"686","Lebanon","China",2004,NA,0
+"687","Lebanon","China",2005,NA,0
+"688","Lebanon","China",2006,NA,0
+"689","Lebanon","China",2007,NA,0
+"690","Lebanon","China",2008,NA,0
+"691","Lebanon","China",2009,NA,0
+"692","Lebanon","China",2010,NA,0
+"693","Lebanon","China",2011,NA,0
+"694","Lebanon","China",2012,NA,0
+"695","Lebanon","China",2013,NA,0
+"696","Lebanon","China",2014,NA,0
+"697","Lebanon","China",2015,NA,0
+"698","Lebanon","China",2016,NA,0
+"699","Lebanon","China",2017,NA,0
+"700","Lebanon","China",2018,NA,0
+"701","Lebanon","Russia",1991,NA,0
+"702","Lebanon","Russia",1992,NA,0
+"703","Lebanon","Russia",1993,NA,0
+"704","Lebanon","Russia",1994,NA,0
+"705","Lebanon","Russia",1995,NA,0
+"706","Lebanon","Russia",1996,NA,0
+"707","Lebanon","Russia",1997,NA,0
+"708","Lebanon","Russia",1998,NA,0
+"709","Lebanon","Russia",1999,NA,0
+"710","Lebanon","Russia",2000,NA,0
+"711","Lebanon","Russia",2001,NA,0
+"712","Lebanon","Russia",2002,NA,0
+"713","Lebanon","Russia",2003,NA,0
+"714","Lebanon","Russia",2004,NA,0
+"715","Lebanon","Russia",2005,NA,0
+"716","Lebanon","Russia",2006,NA,0
+"717","Lebanon","Russia",2007,NA,0
+"718","Lebanon","Russia",2008,NA,0
+"719","Lebanon","Russia",2009,NA,0
+"720","Lebanon","Russia",2010,NA,0
+"721","Lebanon","Russia",2011,NA,0
+"722","Lebanon","Russia",2012,NA,0
+"723","Lebanon","Russia",2013,NA,0
+"724","Lebanon","Russia",2014,NA,0
+"725","Lebanon","Russia",2015,NA,0
+"726","Lebanon","Russia",2016,NA,0
+"727","Lebanon","Russia",2017,NA,0
+"728","Lebanon","Russia",2018,NA,0
+"729","Lebanon","United States",1991,0,0
+"730","Lebanon","United States",1992,0,0
+"731","Lebanon","United States",1993,0,0
+"732","Lebanon","United States",1994,3,1
+"733","Lebanon","United States",1995,3,1
+"734","Lebanon","United States",1996,1,1
+"735","Lebanon","United States",1997,1,1
+"736","Lebanon","United States",1998,1,1
+"737","Lebanon","United States",1999,1,1
+"738","Lebanon","United States",2000,0,0
+"739","Lebanon","United States",2001,0,0
+"740","Lebanon","United States",2002,0,0
+"741","Lebanon","United States",2003,1,1
+"742","Lebanon","United States",2004,0,0
+"743","Lebanon","United States",2005,0,0
+"744","Lebanon","United States",2006,0,0
+"745","Lebanon","United States",2007,1,1
+"746","Lebanon","United States",2008,2,1
+"747","Lebanon","United States",2009,0,0
+"748","Lebanon","United States",2010,1,1
+"749","Lebanon","United States",2011,1,1
+"750","Lebanon","United States",2012,2,1
+"751","Lebanon","United States",2013,0,0
+"752","Lebanon","United States",2014,6,1
+"753","Lebanon","United States",2015,3,1
+"754","Lebanon","United States",2016,4,1
+"755","Lebanon","United States",2017,1,1
+"756","Lebanon","United States",2018,0,0
+"757","Oman","China",1991,0,0
+"758","Oman","China",1992,0,0
+"759","Oman","China",1993,0,0
+"760","Oman","China",1994,0,0
+"761","Oman","China",1995,0,0
+"762","Oman","China",1996,0,0
+"763","Oman","China",1997,0,0
+"764","Oman","China",1998,0,0
+"765","Oman","China",1999,0,0
+"766","Oman","China",2000,0,0
+"767","Oman","China",2001,1,1
+"768","Oman","China",2002,0,0
+"769","Oman","China",2003,0,0
+"770","Oman","China",2004,0,0
+"771","Oman","China",2005,0,0
+"772","Oman","China",2006,0,0
+"773","Oman","China",2007,0,0
+"774","Oman","China",2008,0,0
+"775","Oman","China",2009,0,0
+"776","Oman","China",2010,0,0
+"777","Oman","China",2011,0,0
+"778","Oman","China",2012,0,0
+"779","Oman","China",2013,0,0
+"780","Oman","China",2014,0,0
+"781","Oman","China",2015,0,0
+"782","Oman","China",2016,0,0
+"783","Oman","China",2017,0,0
+"784","Oman","China",2018,0,0
+"785","Oman","Russia",1991,NA,0
+"786","Oman","Russia",1992,NA,0
+"787","Oman","Russia",1993,NA,0
+"788","Oman","Russia",1994,NA,0
+"789","Oman","Russia",1995,NA,0
+"790","Oman","Russia",1996,NA,0
+"791","Oman","Russia",1997,NA,0
+"792","Oman","Russia",1998,NA,0
+"793","Oman","Russia",1999,NA,0
+"794","Oman","Russia",2000,NA,0
+"795","Oman","Russia",2001,NA,0
+"796","Oman","Russia",2002,NA,0
+"797","Oman","Russia",2003,NA,0
+"798","Oman","Russia",2004,NA,0
+"799","Oman","Russia",2005,NA,0
+"800","Oman","Russia",2006,NA,0
+"801","Oman","Russia",2007,NA,0
+"802","Oman","Russia",2008,NA,0
+"803","Oman","Russia",2009,NA,0
+"804","Oman","Russia",2010,NA,0
+"805","Oman","Russia",2011,NA,0
+"806","Oman","Russia",2012,NA,0
+"807","Oman","Russia",2013,NA,0
+"808","Oman","Russia",2014,NA,0
+"809","Oman","Russia",2015,NA,0
+"810","Oman","Russia",2016,NA,0
+"811","Oman","Russia",2017,NA,0
+"812","Oman","Russia",2018,NA,0
+"813","Oman","United States",1991,0,0
+"814","Oman","United States",1992,0,0
+"815","Oman","United States",1993,1,1
+"816","Oman","United States",1994,1,1
+"817","Oman","United States",1995,1,1
+"818","Oman","United States",1996,1,1
+"819","Oman","United States",1997,2,1
+"820","Oman","United States",1998,0,0
+"821","Oman","United States",1999,0,0
+"822","Oman","United States",2000,3,1
+"823","Oman","United States",2001,1,1
+"824","Oman","United States",2002,6,1
+"825","Oman","United States",2003,3,1
+"826","Oman","United States",2004,2,1
+"827","Oman","United States",2005,1,1
+"828","Oman","United States",2006,0,0
+"829","Oman","United States",2007,0,0
+"830","Oman","United States",2008,1,1
+"831","Oman","United States",2009,1,1
+"832","Oman","United States",2010,1,1
+"833","Oman","United States",2011,1,1
+"834","Oman","United States",2012,3,1
+"835","Oman","United States",2013,7,1
+"836","Oman","United States",2014,1,1
+"837","Oman","United States",2015,1,1
+"838","Oman","United States",2016,1,1
+"839","Oman","United States",2017,0,0
+"840","Oman","United States",2018,0,0
+"841","Palestine","China",1991,NA,0
+"842","Palestine","China",1992,NA,0
+"843","Palestine","China",1993,NA,0
+"844","Palestine","China",1994,NA,0
+"845","Palestine","China",1995,NA,0
+"846","Palestine","China",1996,NA,0
+"847","Palestine","China",1997,NA,0
+"848","Palestine","China",1998,NA,0
+"849","Palestine","China",1999,NA,0
+"850","Palestine","China",2000,NA,0
+"851","Palestine","China",2001,NA,0
+"852","Palestine","China",2002,NA,0
+"853","Palestine","China",2003,NA,0
+"854","Palestine","China",2004,NA,0
+"855","Palestine","China",2005,NA,0
+"856","Palestine","China",2006,NA,0
+"857","Palestine","China",2007,NA,0
+"858","Palestine","China",2008,NA,0
+"859","Palestine","China",2009,NA,0
+"860","Palestine","China",2010,NA,0
+"861","Palestine","China",2011,NA,0
+"862","Palestine","China",2012,NA,0
+"863","Palestine","China",2013,NA,0
+"864","Palestine","China",2014,NA,0
+"865","Palestine","China",2015,NA,0
+"866","Palestine","China",2016,NA,0
+"867","Palestine","China",2017,NA,0
+"868","Palestine","China",2018,NA,0
+"869","Palestine","Russia",1991,0,0
+"870","Palestine","Russia",1992,0,0
+"871","Palestine","Russia",1993,0,0
+"872","Palestine","Russia",1994,1,1
+"873","Palestine","Russia",1995,1,1
+"874","Palestine","Russia",1996,0,0
+"875","Palestine","Russia",1997,0,0
+"876","Palestine","Russia",1998,0,0
+"877","Palestine","Russia",1999,0,0
+"878","Palestine","Russia",2000,0,0
+"879","Palestine","Russia",2001,0,0
+"880","Palestine","Russia",2002,0,0
+"881","Palestine","Russia",2003,0,0
+"882","Palestine","Russia",2004,0,0
+"883","Palestine","Russia",2005,1,1
+"884","Palestine","Russia",2006,0,0
+"885","Palestine","Russia",2007,1,1
+"886","Palestine","Russia",2008,0,0
+"887","Palestine","Russia",2009,0,0
+"888","Palestine","Russia",2010,0,0
+"889","Palestine","Russia",2011,0,0
+"890","Palestine","Russia",2012,0,0
+"891","Palestine","Russia",2013,0,0
+"892","Palestine","Russia",2014,0,0
+"893","Palestine","Russia",2015,0,0
+"894","Palestine","Russia",2016,0,0
+"895","Palestine","Russia",2017,0,0
+"896","Palestine","Russia",2018,0,0
+"897","Palestine","United States",1991,NA,0
+"898","Palestine","United States",1992,NA,0
+"899","Palestine","United States",1993,NA,0
+"900","Palestine","United States",1994,NA,0
+"901","Palestine","United States",1995,NA,0
+"902","Palestine","United States",1996,NA,0
+"903","Palestine","United States",1997,NA,0
+"904","Palestine","United States",1998,NA,0
+"905","Palestine","United States",1999,NA,0
+"906","Palestine","United States",2000,NA,0
+"907","Palestine","United States",2001,NA,0
+"908","Palestine","United States",2002,NA,0
+"909","Palestine","United States",2003,NA,0
+"910","Palestine","United States",2004,NA,0
+"911","Palestine","United States",2005,NA,0
+"912","Palestine","United States",2006,NA,0
+"913","Palestine","United States",2007,NA,0
+"914","Palestine","United States",2008,NA,0
+"915","Palestine","United States",2009,NA,0
+"916","Palestine","United States",2010,NA,0
+"917","Palestine","United States",2011,NA,0
+"918","Palestine","United States",2012,NA,0
+"919","Palestine","United States",2013,NA,0
+"920","Palestine","United States",2014,NA,0
+"921","Palestine","United States",2015,NA,0
+"922","Palestine","United States",2016,NA,0
+"923","Palestine","United States",2017,NA,0
+"924","Palestine","United States",2018,NA,0
+"925","Qatar","China",1991,0,0
+"926","Qatar","China",1992,0,0
+"927","Qatar","China",1993,0,0
+"928","Qatar","China",1994,0,0
+"929","Qatar","China",1995,0,0
+"930","Qatar","China",1996,0,0
+"931","Qatar","China",1997,0,0
+"932","Qatar","China",1998,0,0
+"933","Qatar","China",1999,0,0
+"934","Qatar","China",2000,0,0
+"935","Qatar","China",2001,0,0
+"936","Qatar","China",2002,0,0
+"937","Qatar","China",2003,0,0
+"938","Qatar","China",2004,0,0
+"939","Qatar","China",2005,0,0
+"940","Qatar","China",2006,0,0
+"941","Qatar","China",2007,0,0
+"942","Qatar","China",2008,0,0
+"943","Qatar","China",2009,0,0
+"944","Qatar","China",2010,0,0
+"945","Qatar","China",2011,0,0
+"946","Qatar","China",2012,0,0
+"947","Qatar","China",2013,0,0
+"948","Qatar","China",2014,0,0
+"949","Qatar","China",2015,0,0
+"950","Qatar","China",2016,2,1
+"951","Qatar","China",2017,0,0
+"952","Qatar","China",2018,0,0
+"953","Qatar","Russia",1991,0,0
+"954","Qatar","Russia",1992,0,0
+"955","Qatar","Russia",1993,0,0
+"956","Qatar","Russia",1994,0,0
+"957","Qatar","Russia",1995,0,0
+"958","Qatar","Russia",1996,0,0
+"959","Qatar","Russia",1997,0,0
+"960","Qatar","Russia",1998,0,0
+"961","Qatar","Russia",1999,0,0
+"962","Qatar","Russia",2000,0,0
+"963","Qatar","Russia",2001,0,0
+"964","Qatar","Russia",2002,0,0
+"965","Qatar","Russia",2003,0,0
+"966","Qatar","Russia",2004,0,0
+"967","Qatar","Russia",2005,0,0
+"968","Qatar","Russia",2006,0,0
+"969","Qatar","Russia",2007,0,0
+"970","Qatar","Russia",2008,0,0
+"971","Qatar","Russia",2009,0,0
+"972","Qatar","Russia",2010,0,0
+"973","Qatar","Russia",2011,0,0
+"974","Qatar","Russia",2012,0,0
+"975","Qatar","Russia",2013,0,0
+"976","Qatar","Russia",2014,0,0
+"977","Qatar","Russia",2015,0,0
+"978","Qatar","Russia",2016,0,0
+"979","Qatar","Russia",2017,1,1
+"980","Qatar","Russia",2018,0,0
+"981","Qatar","United States",1991,0,0
+"982","Qatar","United States",1992,0,0
+"983","Qatar","United States",1993,0,0
+"984","Qatar","United States",1994,0,0
+"985","Qatar","United States",1995,0,0
+"986","Qatar","United States",1996,1,1
+"987","Qatar","United States",1997,0,0
+"988","Qatar","United States",1998,0,0
+"989","Qatar","United States",1999,0,0
+"990","Qatar","United States",2000,0,0
+"991","Qatar","United States",2001,0,0
+"992","Qatar","United States",2002,0,0
+"993","Qatar","United States",2003,0,0
+"994","Qatar","United States",2004,0,0
+"995","Qatar","United States",2005,0,0
+"996","Qatar","United States",2006,0,0
+"997","Qatar","United States",2007,0,0
+"998","Qatar","United States",2008,1,1
+"999","Qatar","United States",2009,0,0
+"1000","Qatar","United States",2010,1,1
+"1001","Qatar","United States",2011,0,0
+"1002","Qatar","United States",2012,0,0
+"1003","Qatar","United States",2013,0,0
+"1004","Qatar","United States",2014,4,1
+"1005","Qatar","United States",2015,1,1
+"1006","Qatar","United States",2016,1,1
+"1007","Qatar","United States",2017,1,1
+"1008","Qatar","United States",2018,1,1
+"1009","Saudi Arabia","China",1991,0,0
+"1010","Saudi Arabia","China",1992,0,0
+"1011","Saudi Arabia","China",1993,0,0
+"1012","Saudi Arabia","China",1994,0,0
+"1013","Saudi Arabia","China",1995,0,0
+"1014","Saudi Arabia","China",1996,0,0
+"1015","Saudi Arabia","China",1997,0,0
+"1016","Saudi Arabia","China",1998,0,0
+"1017","Saudi Arabia","China",1999,0,0
+"1018","Saudi Arabia","China",2000,0,0
+"1019","Saudi Arabia","China",2001,0,0
+"1020","Saudi Arabia","China",2002,0,0
+"1021","Saudi Arabia","China",2003,0,0
+"1022","Saudi Arabia","China",2004,0,0
+"1023","Saudi Arabia","China",2005,0,0
+"1024","Saudi Arabia","China",2006,0,0
+"1025","Saudi Arabia","China",2007,1,1
+"1026","Saudi Arabia","China",2008,0,0
+"1027","Saudi Arabia","China",2009,0,0
+"1028","Saudi Arabia","China",2010,0,0
+"1029","Saudi Arabia","China",2011,0,0
+"1030","Saudi Arabia","China",2012,0,0
+"1031","Saudi Arabia","China",2013,0,0
+"1032","Saudi Arabia","China",2014,2,1
+"1033","Saudi Arabia","China",2015,0,0
+"1034","Saudi Arabia","China",2016,0,0
+"1035","Saudi Arabia","China",2017,1,1
+"1036","Saudi Arabia","China",2018,0,0
+"1037","Saudi Arabia","Russia",1991,NA,0
+"1038","Saudi Arabia","Russia",1992,NA,0
+"1039","Saudi Arabia","Russia",1993,NA,0
+"1040","Saudi Arabia","Russia",1994,NA,0
+"1041","Saudi Arabia","Russia",1995,NA,0
+"1042","Saudi Arabia","Russia",1996,NA,0
+"1043","Saudi Arabia","Russia",1997,NA,0
+"1044","Saudi Arabia","Russia",1998,NA,0
+"1045","Saudi Arabia","Russia",1999,NA,0
+"1046","Saudi Arabia","Russia",2000,NA,0
+"1047","Saudi Arabia","Russia",2001,NA,0
+"1048","Saudi Arabia","Russia",2002,NA,0
+"1049","Saudi Arabia","Russia",2003,NA,0
+"1050","Saudi Arabia","Russia",2004,NA,0
+"1051","Saudi Arabia","Russia",2005,NA,0
+"1052","Saudi Arabia","Russia",2006,NA,0
+"1053","Saudi Arabia","Russia",2007,NA,0
+"1054","Saudi Arabia","Russia",2008,NA,0
+"1055","Saudi Arabia","Russia",2009,NA,0
+"1056","Saudi Arabia","Russia",2010,NA,0
+"1057","Saudi Arabia","Russia",2011,NA,0
+"1058","Saudi Arabia","Russia",2012,NA,0
+"1059","Saudi Arabia","Russia",2013,NA,0
+"1060","Saudi Arabia","Russia",2014,NA,0
+"1061","Saudi Arabia","Russia",2015,NA,0
+"1062","Saudi Arabia","Russia",2016,NA,0
+"1063","Saudi Arabia","Russia",2017,NA,0
+"1064","Saudi Arabia","Russia",2018,NA,0
+"1065","Saudi Arabia","United States",1991,2,1
+"1066","Saudi Arabia","United States",1992,7,1
+"1067","Saudi Arabia","United States",1993,4,1
+"1068","Saudi Arabia","United States",1994,1,1
+"1069","Saudi Arabia","United States",1995,2,1
+"1070","Saudi Arabia","United States",1996,0,0
+"1071","Saudi Arabia","United States",1997,1,1
+"1072","Saudi Arabia","United States",1998,1,1
+"1073","Saudi Arabia","United States",1999,0,0
+"1074","Saudi Arabia","United States",2000,3,1
+"1075","Saudi Arabia","United States",2001,4,1
+"1076","Saudi Arabia","United States",2002,0,0
+"1077","Saudi Arabia","United States",2003,0,0
+"1078","Saudi Arabia","United States",2004,2,1
+"1079","Saudi Arabia","United States",2005,4,1
+"1080","Saudi Arabia","United States",2006,4,1
+"1081","Saudi Arabia","United States",2007,2,1
+"1082","Saudi Arabia","United States",2008,7,1
+"1083","Saudi Arabia","United States",2009,12,1
+"1084","Saudi Arabia","United States",2010,5,1
+"1085","Saudi Arabia","United States",2011,13,1
+"1086","Saudi Arabia","United States",2012,12,1
+"1087","Saudi Arabia","United States",2013,7,1
+"1088","Saudi Arabia","United States",2014,6,1
+"1089","Saudi Arabia","United States",2015,5,1
+"1090","Saudi Arabia","United States",2016,4,1
+"1091","Saudi Arabia","United States",2017,2,1
+"1092","Saudi Arabia","United States",2018,0,0
+"1093","Syria","China",1991,0,0
+"1094","Syria","China",1992,0,0
+"1095","Syria","China",1993,0,0
+"1096","Syria","China",1994,0,0
+"1097","Syria","China",1995,0,0
+"1098","Syria","China",1996,0,0
+"1099","Syria","China",1997,0,0
+"1100","Syria","China",1998,0,0
+"1101","Syria","China",1999,0,0
+"1102","Syria","China",2000,0,0
+"1103","Syria","China",2001,0,0
+"1104","Syria","China",2002,0,0
+"1105","Syria","China",2003,0,0
+"1106","Syria","China",2004,0,0
+"1107","Syria","China",2005,0,0
+"1108","Syria","China",2006,0,0
+"1109","Syria","China",2007,0,0
+"1110","Syria","China",2008,3,1
+"1111","Syria","China",2009,0,0
+"1112","Syria","China",2010,0,0
+"1113","Syria","China",2011,0,0
+"1114","Syria","China",2012,0,0
+"1115","Syria","China",2013,1,1
+"1116","Syria","China",2014,0,0
+"1117","Syria","China",2015,0,0
+"1118","Syria","China",2016,0,0
+"1119","Syria","China",2017,0,0
+"1120","Syria","China",2018,0,0
+"1121","Syria","Russia",1991,1,1
+"1122","Syria","Russia",1992,0,0
+"1123","Syria","Russia",1993,0,0
+"1124","Syria","Russia",1994,0,0
+"1125","Syria","Russia",1995,0,0
+"1126","Syria","Russia",1996,0,0
+"1127","Syria","Russia",1997,0,0
+"1128","Syria","Russia",1998,3,1
+"1129","Syria","Russia",1999,0,0
+"1130","Syria","Russia",2000,0,0
+"1131","Syria","Russia",2001,0,0
+"1132","Syria","Russia",2002,1,1
+"1133","Syria","Russia",2003,0,0
+"1134","Syria","Russia",2004,1,1
+"1135","Syria","Russia",2005,2,1
+"1136","Syria","Russia",2006,2,1
+"1137","Syria","Russia",2007,5,1
+"1138","Syria","Russia",2008,1,1
+"1139","Syria","Russia",2009,1,1
+"1140","Syria","Russia",2010,2,1
+"1141","Syria","Russia",2011,0,0
+"1142","Syria","Russia",2012,0,0
+"1143","Syria","Russia",2013,0,0
+"1144","Syria","Russia",2014,1,1
+"1145","Syria","Russia",2015,1,1
+"1146","Syria","Russia",2016,1,1
+"1147","Syria","Russia",2017,1,1
+"1148","Syria","Russia",2018,2,1
+"1149","Syria","United States",1991,NA,0
+"1150","Syria","United States",1992,NA,0
+"1151","Syria","United States",1993,NA,0
+"1152","Syria","United States",1994,NA,0
+"1153","Syria","United States",1995,NA,0
+"1154","Syria","United States",1996,NA,0
+"1155","Syria","United States",1997,NA,0
+"1156","Syria","United States",1998,NA,0
+"1157","Syria","United States",1999,NA,0
+"1158","Syria","United States",2000,NA,0
+"1159","Syria","United States",2001,NA,0
+"1160","Syria","United States",2002,NA,0
+"1161","Syria","United States",2003,NA,0
+"1162","Syria","United States",2004,NA,0
+"1163","Syria","United States",2005,NA,0
+"1164","Syria","United States",2006,NA,0
+"1165","Syria","United States",2007,NA,0
+"1166","Syria","United States",2008,NA,0
+"1167","Syria","United States",2009,NA,0
+"1168","Syria","United States",2010,NA,0
+"1169","Syria","United States",2011,NA,0
+"1170","Syria","United States",2012,NA,0
+"1171","Syria","United States",2013,NA,0
+"1172","Syria","United States",2014,NA,0
+"1173","Syria","United States",2015,NA,0
+"1174","Syria","United States",2016,NA,0
+"1175","Syria","United States",2017,NA,0
+"1176","Syria","United States",2018,NA,0
+"1177","Turkey","China",1991,0,0
+"1178","Turkey","China",1992,0,0
+"1179","Turkey","China",1993,0,0
+"1180","Turkey","China",1994,0,0
+"1181","Turkey","China",1995,0,0
+"1182","Turkey","China",1996,0,0
+"1183","Turkey","China",1997,1,1
+"1184","Turkey","China",1998,0,0
+"1185","Turkey","China",1999,1,1
+"1186","Turkey","China",2000,0,0
+"1187","Turkey","China",2001,0,0
+"1188","Turkey","China",2002,0,0
+"1189","Turkey","China",2003,0,0
+"1190","Turkey","China",2004,0,0
+"1191","Turkey","China",2005,0,0
+"1192","Turkey","China",2006,0,0
+"1193","Turkey","China",2007,0,0
+"1194","Turkey","China",2008,0,0
+"1195","Turkey","China",2009,0,0
+"1196","Turkey","China",2010,0,0
+"1197","Turkey","China",2011,0,0
+"1198","Turkey","China",2012,0,0
+"1199","Turkey","China",2013,0,0
+"1200","Turkey","China",2014,0,0
+"1201","Turkey","China",2015,0,0
+"1202","Turkey","China",2016,0,0
+"1203","Turkey","China",2017,0,0
+"1204","Turkey","China",2018,0,0
+"1205","Turkey","Russia",1991,0,0
+"1206","Turkey","Russia",1992,3,1
+"1207","Turkey","Russia",1993,1,1
+"1208","Turkey","Russia",1994,0,0
+"1209","Turkey","Russia",1995,0,0
+"1210","Turkey","Russia",1996,0,0
+"1211","Turkey","Russia",1997,0,0
+"1212","Turkey","Russia",1998,0,0
+"1213","Turkey","Russia",1999,0,0
+"1214","Turkey","Russia",2000,0,0
+"1215","Turkey","Russia",2001,0,0
+"1216","Turkey","Russia",2002,0,0
+"1217","Turkey","Russia",2003,0,0
+"1218","Turkey","Russia",2004,0,0
+"1219","Turkey","Russia",2005,0,0
+"1220","Turkey","Russia",2006,0,0
+"1221","Turkey","Russia",2007,0,0
+"1222","Turkey","Russia",2008,1,1
+"1223","Turkey","Russia",2009,0,0
+"1224","Turkey","Russia",2010,0,0
+"1225","Turkey","Russia",2011,0,0
+"1226","Turkey","Russia",2012,0,0
+"1227","Turkey","Russia",2013,0,0
+"1228","Turkey","Russia",2014,0,0
+"1229","Turkey","Russia",2015,0,0
+"1230","Turkey","Russia",2016,0,0
+"1231","Turkey","Russia",2017,0,0
+"1232","Turkey","Russia",2018,0,0
+"1233","Turkey","United States",1991,13,1
+"1234","Turkey","United States",1992,9,1
+"1235","Turkey","United States",1993,12,1
+"1236","Turkey","United States",1994,7,1
+"1237","Turkey","United States",1995,10,1
+"1238","Turkey","United States",1996,2,1
+"1239","Turkey","United States",1997,1,1
+"1240","Turkey","United States",1998,6,1
+"1241","Turkey","United States",1999,2,1
+"1242","Turkey","United States",2000,3,1
+"1243","Turkey","United States",2001,1,1
+"1244","Turkey","United States",2002,6,1
+"1245","Turkey","United States",2003,1,1
+"1246","Turkey","United States",2004,0,0
+"1247","Turkey","United States",2005,3,1
+"1248","Turkey","United States",2006,5,1
+"1249","Turkey","United States",2007,3,1
+"1250","Turkey","United States",2008,3,1
+"1251","Turkey","United States",2009,6,1
+"1252","Turkey","United States",2010,1,1
+"1253","Turkey","United States",2011,4,1
+"1254","Turkey","United States",2012,2,1
+"1255","Turkey","United States",2013,2,1
+"1256","Turkey","United States",2014,3,1
+"1257","Turkey","United States",2015,4,1
+"1258","Turkey","United States",2016,2,1
+"1259","Turkey","United States",2017,1,1
+"1260","Turkey","United States",2018,0,0
+"1261","UAE","China",1991,0,0
+"1262","UAE","China",1992,0,0
+"1263","UAE","China",1993,0,0
+"1264","UAE","China",1994,0,0
+"1265","UAE","China",1995,0,0
+"1266","UAE","China",1996,0,0
+"1267","UAE","China",1997,0,0
+"1268","UAE","China",1998,0,0
+"1269","UAE","China",1999,0,0
+"1270","UAE","China",2000,0,0
+"1271","UAE","China",2001,0,0
+"1272","UAE","China",2002,0,0
+"1273","UAE","China",2003,0,0
+"1274","UAE","China",2004,0,0
+"1275","UAE","China",2005,0,0
+"1276","UAE","China",2006,0,0
+"1277","UAE","China",2007,0,0
+"1278","UAE","China",2008,0,0
+"1279","UAE","China",2009,0,0
+"1280","UAE","China",2010,0,0
+"1281","UAE","China",2011,1,1
+"1282","UAE","China",2012,0,0
+"1283","UAE","China",2013,0,0
+"1284","UAE","China",2014,0,0
+"1285","UAE","China",2015,0,0
+"1286","UAE","China",2016,0,0
+"1287","UAE","China",2017,1,1
+"1288","UAE","China",2018,0,0
+"1289","UAE","Russia",1991,0,0
+"1290","UAE","Russia",1992,1,1
+"1291","UAE","Russia",1993,0,0
+"1292","UAE","Russia",1994,2,1
+"1293","UAE","Russia",1995,0,0
+"1294","UAE","Russia",1996,1,1
+"1295","UAE","Russia",1997,1,1
+"1296","UAE","Russia",1998,0,0
+"1297","UAE","Russia",1999,0,0
+"1298","UAE","Russia",2000,2,1
+"1299","UAE","Russia",2001,0,0
+"1300","UAE","Russia",2002,0,0
+"1301","UAE","Russia",2003,0,0
+"1302","UAE","Russia",2004,0,0
+"1303","UAE","Russia",2005,0,0
+"1304","UAE","Russia",2006,0,0
+"1305","UAE","Russia",2007,1,1
+"1306","UAE","Russia",2008,0,0
+"1307","UAE","Russia",2009,0,0
+"1308","UAE","Russia",2010,0,0
+"1309","UAE","Russia",2011,0,0
+"1310","UAE","Russia",2012,0,0
+"1311","UAE","Russia",2013,0,0
+"1312","UAE","Russia",2014,0,0
+"1313","UAE","Russia",2015,0,0
+"1314","UAE","Russia",2016,0,0
+"1315","UAE","Russia",2017,1,1
+"1316","UAE","Russia",2018,0,0
+"1317","UAE","United States",1991,2,1
+"1318","UAE","United States",1992,0,0
+"1319","UAE","United States",1993,2,1
+"1320","UAE","United States",1994,3,1
+"1321","UAE","United States",1995,0,0
+"1322","UAE","United States",1996,1,1
+"1323","UAE","United States",1997,2,1
+"1324","UAE","United States",1998,2,1
+"1325","UAE","United States",1999,0,0
+"1326","UAE","United States",2000,1,1
+"1327","UAE","United States",2001,2,1
+"1328","UAE","United States",2002,4,1
+"1329","UAE","United States",2003,3,1
+"1330","UAE","United States",2004,1,1
+"1331","UAE","United States",2005,2,1
+"1332","UAE","United States",2006,1,1
+"1333","UAE","United States",2007,6,1
+"1334","UAE","United States",2008,10,1
+"1335","UAE","United States",2009,4,1
+"1336","UAE","United States",2010,5,1
+"1337","UAE","United States",2011,5,1
+"1338","UAE","United States",2012,2,1
+"1339","UAE","United States",2013,3,1
+"1340","UAE","United States",2014,8,1
+"1341","UAE","United States",2015,5,1
+"1342","UAE","United States",2016,2,1
+"1343","UAE","United States",2017,6,1
+"1344","UAE","United States",2018,0,0
+"1345","Yemen","China",1991,0,0
+"1346","Yemen","China",1992,1,1
+"1347","Yemen","China",1993,0,0
+"1348","Yemen","China",1994,0,0
+"1349","Yemen","China",1995,0,0
+"1350","Yemen","China",1996,0,0
+"1351","Yemen","China",1997,0,0
+"1352","Yemen","China",1998,0,0
+"1353","Yemen","China",1999,0,0
+"1354","Yemen","China",2000,0,0
+"1355","Yemen","China",2001,0,0
+"1356","Yemen","China",2002,0,0
+"1357","Yemen","China",2003,0,0
+"1358","Yemen","China",2004,0,0
+"1359","Yemen","China",2005,0,0
+"1360","Yemen","China",2006,0,0
+"1361","Yemen","China",2007,0,0
+"1362","Yemen","China",2008,0,0
+"1363","Yemen","China",2009,0,0
+"1364","Yemen","China",2010,0,0
+"1365","Yemen","China",2011,0,0
+"1366","Yemen","China",2012,0,0
+"1367","Yemen","China",2013,0,0
+"1368","Yemen","China",2014,0,0
+"1369","Yemen","China",2015,0,0
+"1370","Yemen","China",2016,0,0
+"1371","Yemen","China",2017,0,0
+"1372","Yemen","China",2018,0,0
+"1373","Yemen","Russia",1991,0,0
+"1374","Yemen","Russia",1992,0,0
+"1375","Yemen","Russia",1993,0,0
+"1376","Yemen","Russia",1994,1,1
+"1377","Yemen","Russia",1995,0,0
+"1378","Yemen","Russia",1996,0,0
+"1379","Yemen","Russia",1997,0,0
+"1380","Yemen","Russia",1998,0,0
+"1381","Yemen","Russia",1999,1,1
+"1382","Yemen","Russia",2000,0,0
+"1383","Yemen","Russia",2001,3,1
+"1384","Yemen","Russia",2002,0,0
+"1385","Yemen","Russia",2003,4,1
+"1386","Yemen","Russia",2004,1,1
+"1387","Yemen","Russia",2005,0,0
+"1388","Yemen","Russia",2006,0,0
+"1389","Yemen","Russia",2007,0,0
+"1390","Yemen","Russia",2008,0,0
+"1391","Yemen","Russia",2009,1,1
+"1392","Yemen","Russia",2010,0,0
+"1393","Yemen","Russia",2011,0,0
+"1394","Yemen","Russia",2012,0,0
+"1395","Yemen","Russia",2013,0,0
+"1396","Yemen","Russia",2014,0,0
+"1397","Yemen","Russia",2015,0,0
+"1398","Yemen","Russia",2016,0,0
+"1399","Yemen","Russia",2017,0,0
+"1400","Yemen","Russia",2018,0,0
+"1401","Yemen","United States",1991,0,0
+"1402","Yemen","United States",1992,0,0
+"1403","Yemen","United States",1993,0,0
+"1404","Yemen","United States",1994,0,0
+"1405","Yemen","United States",1995,0,0
+"1406","Yemen","United States",1996,0,0
+"1407","Yemen","United States",1997,0,0
+"1408","Yemen","United States",1998,0,0
+"1409","Yemen","United States",1999,0,0
+"1410","Yemen","United States",2000,0,0
+"1411","Yemen","United States",2001,0,0
+"1412","Yemen","United States",2002,0,0
+"1413","Yemen","United States",2003,0,0
+"1414","Yemen","United States",2004,0,0
+"1415","Yemen","United States",2005,1,1
+"1416","Yemen","United States",2006,0,0
+"1417","Yemen","United States",2007,0,0
+"1418","Yemen","United States",2008,0,0
+"1419","Yemen","United States",2009,0,0
+"1420","Yemen","United States",2010,1,1
+"1421","Yemen","United States",2011,1,1
+"1422","Yemen","United States",2012,1,1
+"1423","Yemen","United States",2013,0,0
+"1424","Yemen","United States",2014,1,1
+"1425","Yemen","United States",2015,0,0
+"1426","Yemen","United States",2016,0,0
+"1427","Yemen","United States",2017,0,0
+"1428","Yemen","United States",2018,0,0
