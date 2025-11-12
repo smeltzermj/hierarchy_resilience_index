@@ -43,3 +43,8 @@ Live API data pipelines for dynamic updates
 NLP and machine learning models to quantify qualitative data (e.g., media tone, elite networks)
 
 Integration with graph-based influence models for simulation and forecasting
+
+
+## Citation
+
+Weber, Y. (2019). Measuring Hierarchy in the European Union and Eastern Partnership Countries. In: Rouet, G., Pascariu, G.C. (eds) Resilience and the EU’s Eastern Neighbourhood Countries. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-25606-7_9
