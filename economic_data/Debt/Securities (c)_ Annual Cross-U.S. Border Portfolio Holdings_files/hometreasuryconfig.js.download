@@ -1,0 +1,15 @@
+﻿//Please leave this line here, sync [production=false] when update the javascript below. This is used to controlthe header
+(function () {
+    //set production=true when new treasury.gov redesign is ready for launch
+    var production = true;
+    if (/(showNewHF=true)/.test(location.href)) {
+        document.getElementById("footer").className = "";
+        document.getElementById("t-footermenu").className = "hidden";
+        //console.log("showNewHF=true");
+    }
+    if (production) {
+        document.getElementById("footer").className = "";
+        document.getElementById("t-footermenu").className = "hidden";
+        //console.log("production is true");
+    }
+})();
